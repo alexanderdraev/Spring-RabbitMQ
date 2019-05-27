@@ -1,0 +1,6 @@
+rabbitmq:
+  host: 1.0.127.0
+  port: 15672
+  username: guest
+  password: guest
+
